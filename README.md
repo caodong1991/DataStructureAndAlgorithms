@@ -1,2 +1,2 @@
-# DataStructureWithSwift
-Learn data structures with Swift
+# DataStructureAndAlgorithms
+Learn data structures and algorithms with Swift
